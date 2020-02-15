@@ -2,7 +2,7 @@
 
 1. *First Name*: **Andrej**
 2. *last Name*: **Blaknin**
-3. *Contact Info*: **+375 29 144 76 56, (andrejadis.78@gmail.com)**
+3. *Contact Info*: **+375 29 144 76 56, andrejadis.78@gmail.com**
 4. *Summahy*: I"m going to learn JS, HTML, CSS.
 5. *Skills*: I haven"t experience in IT.
 6. *Code:* `let hello = () => "Hello World!";`
