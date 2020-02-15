@@ -1,7 +1,7 @@
 # My summary
 
-1. *First Name*: **Andrej**
-2. *last Name*: **Blaknin**
+1. *First Name*: **Andrei**
+2. *last Name*: **Blakhnin**
 3. *Contact Info*: **+375 29 144 76 56, andrejadis.78@gmail.com**
 4. *Summahy*: I"m going to learn JS, HTML, CSS.
 5. *Skills*: I haven"t experience in IT.
