@@ -1,2 +1,2 @@
 **Link:**
-https://github.com/AndrejBAL/rsschool-cv/cv
+https://AndrejBAL.github.io/rsschool-cv/cv
