@@ -1,1 +1,16 @@
+body {
+	font-family: 'Open Sans', sans-serif;
+	padding: 0;
+	margin: 0;
+	font-size: 14px;
+	color: #000;
+}
 
+.conteiner {
+	width: 1024px;
+	margin: 0 auto;
+}
+
+img {
+	background: red;
+	}
